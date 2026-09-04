@@ -1,4 +1,4 @@
-# Hospital DApp — Blockchain-Based Patient Record Management System
+# Hospital DApp - Blockchain-Based Patient Record Management System
 
 A decentralized hospital application developed as a group project to demonstrate how blockchain technology can be used to manage and retrieve patient records securely.
 
